@@ -239,3 +239,6 @@ Developed for an academic seismic exploration practicum.
 **Laksamana Putra Yulistiono**
 
 ---
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaksamanaPtra/Semester-3/HEAD?urlpath=%2Fdoc%2Ftree%2FSeismic_Acquisition_Forward_Modelling_Traveltime_Inversion_Final.ipynb)
