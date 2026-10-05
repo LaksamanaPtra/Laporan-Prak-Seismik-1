@@ -11,7 +11,7 @@ The project was developed as part of a seismic exploration practicum and is inte
 
 The workflow implemented in the notebook is:
 
-```text
+
 Surface Horizon
       ↓
 Synthetic Three-Layer Model
@@ -109,9 +109,9 @@ Synthetic noise is added to provide a more realistic inversion input:
 
 The resulting synthetic traveltime range is approximately:
 
-```text
+
 0.003526 s – 0.182414 s
-```
+
 
 ---
 
