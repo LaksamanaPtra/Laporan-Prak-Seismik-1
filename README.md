@@ -1,6 +1,4 @@
-Berikut isi `README.md` yang siap kamu copy ke GitHub. Aku buat dalam bahasa Inggris supaya lebih cocok untuk repository publik dan tetap terasa seperti project akademik mahasiswa, bukan dokumentasi software yang berlebihan.
 
-```markdown
 # Seismic Refraction Acquisition, Forward Modelling, and Traveltime Tomography Inversion
 
 This repository contains a synthetic seismic refraction workflow developed using Python and [pyGIMLi](https://www.pygimli.org/). The notebook covers the complete modelling sequence from the construction of a synthetic subsurface model and acquisition geometry to first-arrival traveltime simulation and seismic refraction tomography inversion.
@@ -35,7 +33,6 @@ Traveltime Tomography Inversion
 Recovered Velocity Model
       ↓
 Data Fit and Chi-Square Evaluation
-```
 
 ---
 
@@ -191,8 +188,7 @@ https://www.pygimli.org/installation.html
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/LaksamanaPtra/Semester-3.git
 ```
 
 Activate the Python environment containing pyGIMLi and start Jupyter:
@@ -240,20 +236,6 @@ The acquisition geometry used in this project provides dense synthetic coverage 
 
 Developed for an academic seismic exploration practicum.
 
-**Geophysical Engineering**
+**Laksamana Putra Yulistiono**
 
 ---
-
-## Disclaimer
-
-This repository is intended for educational and academic purposes. The model, acquisition geometry, and inversion parameters are designed for a synthetic modelling experiment and should not be directly applied to field surveys without appropriate survey design and validation.
-```
-
-Ada satu bagian yang nanti perlu kamu ganti sendiri sebelum upload:
-
-```text
-git clone <repository-url>
-cd <repository-folder>
-```
-
-Kalau nama repository GitHub-mu sudah ditentukan, misalnya `seismic-refraction-pygimli`, itu bisa langsung diganti menjadi nama repository sebenarnya.
