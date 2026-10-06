@@ -7,35 +7,6 @@ The project was developed as part of a seismic exploration practicum and is inte
 
 ---
 
-## Project Workflow
-
-The workflow implemented in the notebook is:
-
-
-Surface Horizon
-      ↓
-Synthetic Three-Layer Model
-      ↓
-Mesh Generation
-      ↓
-P-Wave Velocity Assignment
-      ↓
-Source–Receiver Geometry
-      ↓
-Forward Modelling
-      ↓
-Synthetic First-Arrival Traveltimes
-      ↓
-Synthetic Noise Addition
-      ↓
-Traveltime Tomography Inversion
-      ↓
-Recovered Velocity Model
-      ↓
-Data Fit and Chi-Square Evaluation
-
----
-
 ## Synthetic Model
 
 The subsurface is represented by a three-layer synthetic model with P-wave velocity increasing with depth.
